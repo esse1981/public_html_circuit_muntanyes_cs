@@ -1,0 +1,1662 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sportcenter\n"
+"POT-Creation-Date: 2018-03-02 09:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: leafcolor\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;"
+
+#: sportcenter/404.php:21 sportcenter/functions.php:297
+#: sportcenter/inc/option-tree-hook.php:41
+msgid "404"
+msgstr ""
+
+#: sportcenter/attachment.php:63 sportcenter/single.php:53
+#: sportcenter/tribe-events/single-event.php:134
+msgid "Previous"
+msgstr ""
+
+#: sportcenter/attachment.php:68 sportcenter/single.php:72
+#: sportcenter/tribe-events/single-event.php:153
+msgid "Next"
+msgstr ""
+
+#: sportcenter/comments.php:43
+msgid "Leave a comment"
+msgstr ""
+
+#: sportcenter/comments.php:48
+msgid "Your comment..."
+msgstr ""
+
+#: sportcenter/footer.php:78
+msgid "Sport Center WordPress Theme by Leafcolor &copy;"
+msgstr ""
+
+#: sportcenter/footer.php:104
+#: sportcenter/templates/header/header-navigation.php:35
+msgid "Home"
+msgstr ""
+
+#: sportcenter/footer.php:117
+msgid "TYPE AND HIT ENTER..."
+msgstr ""
+
+#: sportcenter/functions.php:18
+msgid "Option Tree"
+msgstr ""
+
+#: sportcenter/functions.php:23
+msgid "The Event Calendar"
+msgstr ""
+
+#: sportcenter/functions.php:28
+msgid "Sport Center - Shortcodes"
+msgstr ""
+
+#: sportcenter/functions.php:33
+msgid "Sport Center - Member"
+msgstr ""
+
+#: sportcenter/functions.php:38
+msgid "Applay Showcase"
+msgstr ""
+
+#: sportcenter/functions.php:43
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: sportcenter/functions.php:48 sportcenter/inc/option-tree-hook.php:53
+msgid "WooCommerce"
+msgstr ""
+
+#: sportcenter/functions.php:53
+msgid "Black Studio TinyMCE Widget"
+msgstr ""
+
+#: sportcenter/functions.php:58
+msgid "Contact Form 7"
+msgstr ""
+
+#: sportcenter/functions.php:63
+msgid "WP Pagenavi"
+msgstr ""
+
+#: sportcenter/functions.php:180
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: sportcenter/functions.php:189
+msgid "Replace Pathway (Breadcrumbs) with your widgets"
+msgstr ""
+
+#: sportcenter/functions.php:198
+msgid "Used in Front Page templates only"
+msgstr ""
+
+#: sportcenter/functions.php:207
+msgid "Bottom of page (above Footer)"
+msgstr ""
+
+#: sportcenter/functions.php:226
+msgid "Appears on Woocommerce pages"
+msgstr ""
+
+#: sportcenter/functions.php:244
+msgid "SEARCH"
+msgstr ""
+
+#: sportcenter/functions.php:250
+msgid "Search Result: "
+msgstr ""
+
+#: sportcenter/functions.php:258
+msgid "Author: "
+msgstr ""
+
+#: sportcenter/functions.php:260 sportcenter/functions.php:262
+#: sportcenter/functions.php:264
+msgid "Archives for "
+msgstr ""
+
+#: sportcenter/functions.php:294
+msgid "Search Results for"
+msgstr ""
+
+#: sportcenter/functions.php:295
+msgid "Tag"
+msgstr ""
+
+#: sportcenter/functions.php:296 sportcenter/inc/option-tree-hook.php:464
+#: sportcenter-shortcodes/shortcodes/blog.php:208
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:264
+#: sportcenter-shortcodes/shortcodes/post-grid.php:155
+#: sportcenter-shortcodes/shortcodes/post-slider.php:247
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:193
+msgid "Author"
+msgstr ""
+
+#: sportcenter/functions.php:322 sportcenter/inc/starter/leaf-core.php:143
+#: sportcenter-shortcodes/shortcodes/blog.php:114
+msgid "Blog"
+msgstr ""
+
+#: sportcenter/functions.php:451
+msgid "Page"
+msgstr ""
+
+#: sportcenter/functions.php:468
+msgid "Share on Facebook"
+msgstr ""
+
+#: sportcenter/functions.php:471
+msgid "Share on Twitter"
+msgstr ""
+
+#: sportcenter/functions.php:474
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: sportcenter/functions.php:477
+msgid "Share on Tumblr"
+msgstr ""
+
+#: sportcenter/functions.php:480
+msgid "Share on Google Plus"
+msgstr ""
+
+#: sportcenter/functions.php:483
+msgid "Pin this"
+msgstr ""
+
+#: sportcenter/functions.php:486
+msgid "Email this"
+msgstr ""
+
+#: sportcenter/functions.php:523
+msgid "Row Schema (Theme's style)"
+msgstr ""
+
+#: sportcenter/functions.php:529
+msgid ""
+"Choose row scheme (in Dark, default text, buttons will have white color)"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:13
+msgid "General"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:17
+msgid "Colors & Background"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:21
+msgid "Fonts"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:25
+msgid "Main Navigation"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:29
+msgid "Single Post"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:33
+msgid "Single Page"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:37
+msgid "Archives"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:45
+#: sportcenter/inc/widgets/latest-post-type.php:270
+msgid "Event"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:49
+#: sportcenter-member/member-shortcode.php:81
+#: sportcenter-shortcodes/shortcodes/post-grid.php:102
+msgid "Member"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:57
+msgid "Social Accounts"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:61
+msgid "Social Sharing"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:68
+msgid "Copyright Text"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:69
+msgid "Appear in footer"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:76
+msgid "RTL mode"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:84
+msgid "Enable RTL"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:91
+msgid "Custom CSS"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:92
+msgid "Enter custom CSS. Ex: .class{ font-size: 13px; }"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:104
+msgid "Custom Code"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:105
+msgid "Enter custom code or JS code here. For example, enter Google Analytics"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:116
+msgid "Logo Image"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:117
+#: sportcenter/inc/option-tree-hook.php:362
+msgid "Upload your logo image"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:128
+msgid "Retina Logo (optional)"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:129
+msgid ""
+"Retina logo should be two time bigger than the custom logo. Retina Logo is "
+"optional, use this setting if you want to strictly support retina devices."
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:140
+msgid "Footer Logo Image"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:141
+msgid "Upload Footer logo image"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:152
+msgid "Login Logo Image"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:153
+msgid "Upload your Admin Login logo image"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:164
+msgid "Pre-loading Effect"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:165
+msgid "Enable Pre-loading Effect"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:173
+msgid "Disable"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:178
+msgid "Enable"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:183
+msgid "Enable for Homepage Only"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:190
+msgid "Pre-Loading Background Color"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:191
+msgid "Default is Black"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:198
+msgid "Pre-Loading Spinners Color"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:199
+msgid "Default is Main color"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:207
+msgid "Main color"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:208
+msgid "Choose Main color (Default is #39ba93)"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:220
+msgid "Page Heading Background"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:221
+msgid "Choose Page Heading background (Default is Main color)"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:228
+msgid "Footer Background Color"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:229
+msgid "Choose Footer background color (Default is Main color)"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:236
+msgid "Bottom Background Image"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:237
+msgid "Choose Bottom background image"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:247
+msgid "Main Font Family"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:255
+msgid "Main Font Size"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:256
+msgid "Select base font size (px)"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:264
+msgid "Heading Font Family"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:272
+msgid "Heading Font Style"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:273
+msgid "Ex: italic"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:280
+msgid "Upload Custom Font 1"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:281
+msgid ""
+"Upload your own font and enter name \"custom-font-1\" in \"Main Font "
+"Family\" or \"Heading Font Family\" setting above"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:288
+msgid "Upload Custom Font 2"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:289
+msgid ""
+"Upload your own font and enter name \"custom-font-2\" in \"Main Font "
+"Family\" or \"Heading Font Family\" setting above"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:298
+msgid "Main Navigation Style"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:299
+msgid "Choose Main Navigation Style"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:307
+msgid "Default"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:311
+msgid "Off Canvas"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:317
+msgid "Main Navigation Schema"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:318
+msgid "Choose Main Navigation color schema"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:326
+#: sportcenter-shortcodes/shortcodes/button.php:101
+msgid "Dark"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:330
+#: sportcenter-shortcodes/shortcodes/button.php:100
+msgid "Light"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:336
+msgid "Main Navigation Background Color"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:337
+msgid "Choose Main Navigation background color"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:344
+msgid "Main Navigation Background Opacity"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:345
+msgid "Choose Main Navigation background opacity (%)"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:353
+msgid "Sticky Navigation"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:354
+msgid "Choose to Enable Sticky Navigation"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:361
+msgid "Sticky Logo"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:369
+msgid "Enable Search"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:370
+msgid "Enable or disable default search button on Navigation"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:377
+msgid "Top Navigation Content"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:385
+msgid "Top Navigation Tabs"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:389
+msgid "Add Top Navigation Tabs"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:434
+#: sportcenter/inc/option-tree-hook.php:543
+#: sportcenter/inc/option-tree-hook.php:574
+msgid "Sidebar Layout"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:435
+#: sportcenter/inc/option-tree-hook.php:544
+msgid "Select Sidebar Layout (Right, Left or Fullwidth)"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:465
+msgid "Enable Author info"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:477
+msgid "Published Date"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:478
+msgid "Enable Published Date info"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:490
+#: sportcenter/templates/single/content-single.php:45
+msgid "Categories"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:491
+#: sportcenter/inc/option-tree-hook.php:504
+msgid "Enable Categories info"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:503
+#: sportcenter/templates/single/content-single.php:54
+#: sportcenter-shortcodes/shortcodes/blog.php:168
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:217
+#: sportcenter-shortcodes/shortcodes/post-grid.php:115
+#: sportcenter-shortcodes/shortcodes/post-slider.php:207
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:153
+msgid "Tags"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:516
+msgid "Comment Count"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:517
+msgid "Enable Comment Count Info"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:529
+msgid "Post Navigation"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:530
+msgid "Enable Post Navigation"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:575
+msgid "Select Sidebar position for Archive pages"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:599
+msgid "Archive Post Listing Style"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:600
+msgid ""
+"Select Post Listing Style for Archive pages (Quick Ajax need to be installed)"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:617
+msgid "Show datetime on Post Thumbnail"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:625
+msgid "Custom default excerpt length"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:626
+msgid "Default is 22 words"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:634
+msgid "Page Title"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:642
+msgid "Page Content"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:651
+msgid "Search Form"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:652
+msgid "Enable Search Form in 404 page"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:661
+msgid "Shop & Product Layout"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:662
+msgid "Select default layout of shop & product pages"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:688
+msgid "Event Sidebar Layout"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:689
+msgid "Select default layout of event pages"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:713
+msgid "Show Heading Info"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:714
+#: sportcenter/inc/option-tree-hook.php:722
+#: sportcenter/inc/option-tree-hook.php:730
+#: sportcenter/inc/option-tree-hook.php:738
+#: sportcenter/inc/option-tree-hook.php:746
+msgid "in Single Event"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:721
+msgid "Show Heading Categories"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:729
+msgid "Show Second Title, Info & All Event link in Single content"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:737
+msgid "Show Event Thumbnail in Single content"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:745
+msgid "Show Next/Prev Event"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:753
+msgid "Event Listing Sidebar Layout"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:754
+msgid "Select layout of event archiver pages"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:781
+msgid "Member Sidebar Layout"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:782
+msgid "Select default layout of member pages"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:806
+msgid "Show Member's Upcomming Events"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:807
+#: sportcenter/inc/option-tree-hook.php:815
+msgid "in Single Member"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:814
+msgid "Show Other Members"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:822
+msgid "Member Post Label"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:823
+msgid "Ex: Trainers, Teachers..."
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:830
+msgid "Member Post Slug"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:831
+msgid "Need to re-save permalink options"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:944
+msgid "Custom Social Account"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:976
+msgid "Open Social link in new tab?"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:984
+msgid "Facebook Share"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:985
+msgid "Enable Facebook Share button"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:992
+msgid "Twitter Share"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:993
+msgid "Enable Twitter Tweet button"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:1000
+msgid "LinkedIn Share"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:1001
+msgid "Enable LinkedIn Share button"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:1008
+msgid "Tumblr Share"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:1009
+msgid "Enable Tumblr Share button"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:1016
+msgid "Google+ Share"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:1017
+msgid "Enable Google+ Share button"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:1029
+msgid "Pinterest Share"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:1030
+msgid "Enable Pinterest Pin button"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:1042
+msgid "Email Share"
+msgstr ""
+
+#: sportcenter/inc/option-tree-hook.php:1043
+msgid "Enable Email button"
+msgstr ""
+
+#: sportcenter/inc/starter/functions-admin.php:110
+#: sportcenter/inc/starter/functions-admin.php:116
+#: sportcenter-member/member-shortcode.php:92
+#: sportcenter-shortcodes/shortcodes/blog.php:207
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:263
+#: sportcenter-shortcodes/shortcodes/post-grid.php:154
+#: sportcenter-shortcodes/shortcodes/post-slider.php:246
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:192
+msgid "ID"
+msgstr ""
+
+#: sportcenter/inc/starter/functions-admin.php:111
+msgid "Thumbnail"
+msgstr ""
+
+#: sportcenter/inc/starter/leaf-core.php:130
+#: sportcenter/tribe-events/single-event.php:32
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: sportcenter/inc/starter/twenty-core.php:49
+msgid "&larr; Older posts"
+msgstr ""
+
+#: sportcenter/inc/starter/twenty-core.php:50
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: sportcenter/inc/starter/twenty-core.php:75
+msgid "Pingback:"
+msgstr ""
+
+#: sportcenter/inc/starter/twenty-core.php:112
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:607
+msgid "Update Required"
+msgstr ""
+
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:724
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:920
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:2627
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:3674
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:1027
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:2627
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:2778
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:3002
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:3028
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:3603
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:3611
+msgid "Show Details"
+msgstr ""
+
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:3603
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:3611
+msgid "Hide Details"
+msgstr ""
+
+#: sportcenter/inc/tgm/class-tgm-plugin-activation.php:3611
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: sportcenter/inc/widgets/latest-post-type.php:259
+msgid "Title:"
+msgstr ""
+
+#: sportcenter/inc/widgets/latest-post-type.php:262
+msgid "Number of posts:"
+msgstr ""
+
+#: sportcenter/inc/widgets/latest-post-type.php:267
+msgid "Post type"
+msgstr ""
+
+#: sportcenter/inc/widgets/latest-post-type.php:269
+#: sportcenter-shortcodes/shortcodes/blog.php:128
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:201
+#: sportcenter-shortcodes/shortcodes/post-grid.php:98
+#: sportcenter-shortcodes/shortcodes/post-slider.php:191
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:137
+msgid "Post"
+msgstr ""
+
+#: sportcenter/inc/widgets/latest-post-type.php:271
+#: sportcenter-shortcodes/shortcodes/blog.php:130
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:203
+#: sportcenter-shortcodes/shortcodes/post-grid.php:100
+#: sportcenter-shortcodes/shortcodes/post-slider.php:193
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:139
+msgid "Product"
+msgstr ""
+
+#: sportcenter/inc/widgets/latest-post-type.php:275
+msgid "Tags:"
+msgstr ""
+
+#: sportcenter/inc/widgets/latest-post-type.php:280
+msgid "Categories:"
+msgstr ""
+
+#: sportcenter/inc/widgets/latest-post-type.php:284
+msgid "IDs to show:"
+msgstr ""
+
+#: sportcenter/templates/blog/loop-item.php:21
+msgid "DETAIL"
+msgstr ""
+
+#: sportcenter/templates/blog/loop-none.php:11
+msgid "No results found"
+msgstr ""
+
+#: sportcenter/templates/blog/loop-none.php:12
+msgid "Click here to try another search"
+msgstr ""
+
+#: sportcenter/templates/header/header-heading.php:48
+#: sportcenter-shortcodes/shortcodes/post-slider.php:92
+msgid "Time"
+msgstr ""
+
+#: sportcenter/templates/header/header-heading.php:56
+#: sportcenter-shortcodes/shortcodes/post-slider.php:100
+msgid "Venue"
+msgstr ""
+
+#: sportcenter/templates/header/header-heading.php:73
+#: sportcenter-shortcodes/shortcodes/post-slider.php:118
+msgid "Ticket"
+msgstr ""
+
+#: sportcenter/templates/header/header-heading.php:78
+#: sportcenter-shortcodes/shortcodes/post-slider.php:122
+msgid "Get it now"
+msgstr ""
+
+#: sportcenter/templates/header/header-navigation-top.php:35
+msgid "View Cart"
+msgstr ""
+
+#: sportcenter/templates/header/header-navigation-top.php:36
+msgid "Check Out"
+msgstr ""
+
+#: sportcenter/templates/header/header-navigation.php:41
+msgid "Menu"
+msgstr ""
+
+#: sportcenter/templates/single/content-single.php:36
+msgid "Published"
+msgstr ""
+
+#: sportcenter/templates/single/content-single.php:64
+msgid "Comment"
+msgstr ""
+
+#: sportcenter/tribe-events/single-event.php:51
+#, php-format
+msgid "%s Navigation"
+msgstr ""
+
+#: sportcenter/tribe-events/single-event.php:96
+msgid "Price: "
+msgstr ""
+
+#: sportcenter/tribe-events/day/single-event.php:54
+#: sportcenter/tribe-events/list/single-event.php:58
+#: sportcenter-member/views/single-member.php:78
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:89
+msgid "Inscribete"
+msgstr ""
+
+#: sportcenter/tribe-events/day/single-event.php:58
+#: sportcenter/tribe-events/list/single-event.php:62
+#: sportcenter-member/views/single-member.php:82
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:93
+msgid "Read More"
+msgstr ""
+
+#: sportcenter/tribe-events/day/single-event.php:77
+#: sportcenter/tribe-events/list/single-event.php:81
+#: sportcenter-member/views/single-member.php:104
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:113
+msgid "By "
+msgstr ""
+
+#: sportcenter/tribe-events/day/single-event.php:78
+#: sportcenter/tribe-events/list/single-event.php:82
+#: sportcenter-member/views/single-member.php:105
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:114
+msgid "At "
+msgstr ""
+
+#: sportcenter-member/member-shortcode.php:95
+msgid "ID of member post"
+msgstr ""
+
+#: sportcenter-member/member-shortcode.php:101
+msgid "Image Position"
+msgstr ""
+
+#: sportcenter-member/member.php:116
+msgid "Member info"
+msgstr ""
+
+#: sportcenter-member/member.php:124
+msgid "Position"
+msgstr ""
+
+#: sportcenter-member/member.php:136
+msgid "Member Social"
+msgstr ""
+
+#: sportcenter-member/member.php:144
+msgid "Facebook"
+msgstr ""
+
+#: sportcenter-member/member.php:153
+msgid "Twitter"
+msgstr ""
+
+#: sportcenter-member/member.php:162
+msgid "Flickr"
+msgstr ""
+
+#: sportcenter-member/member.php:171
+msgid "Google+"
+msgstr ""
+
+#: sportcenter-member/member.php:180
+msgid "Instagram"
+msgstr ""
+
+#: sportcenter-member/member.php:189
+msgid "LinkedIn"
+msgstr ""
+
+#: sportcenter-member/member.php:198
+msgid "Pinterest"
+msgstr ""
+
+#: sportcenter-member/member.php:207
+msgid "StumbleUpon"
+msgstr ""
+
+#: sportcenter-member/member.php:217
+msgid "Dribble"
+msgstr ""
+
+#: sportcenter-member/member.php:227
+msgid "Email"
+msgstr ""
+
+#: sportcenter-member/member.php:236
+msgid "Vimeo"
+msgstr ""
+
+#: sportcenter-member/member.php:245
+msgid "YouTube"
+msgstr ""
+
+#: sportcenter-member/member.php:254
+msgid "Vk"
+msgstr ""
+
+#: sportcenter-member/member.php:263
+msgid "RSS"
+msgstr ""
+
+#: sportcenter-member/views/single-member.php:3
+msgid "Events"
+msgstr ""
+
+#: sportcenter-member/views/single-member.php:40
+#: sportcenter-shortcodes/shortcodes/blog.php:237
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:293
+#: sportcenter-shortcodes/shortcodes/post-grid.php:184
+#: sportcenter-shortcodes/shortcodes/post-slider.php:276
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:222
+msgid "Upcoming"
+msgstr ""
+
+#: sportcenter-member/views/single-member.php:127
+msgid "Other "
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/banner.php:65
+msgid "Banner"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/banner.php:68
+#: sportcenter-shortcodes/shortcodes/button.php:58
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:146
+#: sportcenter-shortcodes/shortcodes/post-grid.php:78
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:128
+#: sportcenter-shortcodes/shortcodes/timeline.php:111
+msgid "Content"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/banner.php:73
+msgid "Small Title"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/banner.php:80
+#: sportcenter-shortcodes/shortcodes/blog.php:209
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:150
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:265
+#: sportcenter-shortcodes/shortcodes/post-grid.php:156
+#: sportcenter-shortcodes/shortcodes/post-slider.php:248
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:194
+#: sportcenter-shortcodes/shortcodes/timeline.php:90
+msgid "Title"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/banner.php:83
+msgid "Title Banner"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/banner.php:87
+#: sportcenter-shortcodes/shortcodes/button.php:76
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:157
+msgid "Icon"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/banner.php:90
+#: sportcenter-shortcodes/shortcodes/button.php:79
+msgid "Font Awesome Icon (ex: fa-apple)"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/banner.php:94
+msgid "Background Image"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:125
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:198
+#: sportcenter-shortcodes/shortcodes/post-grid.php:95
+#: sportcenter-shortcodes/shortcodes/post-slider.php:188
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:134
+msgid "Post Type"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:129
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:202
+#: sportcenter-shortcodes/shortcodes/post-grid.php:99
+#: sportcenter-shortcodes/shortcodes/post-slider.php:192
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:138
+msgid "Tribe Events"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:131
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:204
+#: sportcenter-shortcodes/shortcodes/post-grid.php:101
+#: sportcenter-shortcodes/shortcodes/post-slider.php:194
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:140
+msgid "Attachment"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:133
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:206
+#: sportcenter-shortcodes/shortcodes/post-grid.php:104
+#: sportcenter-shortcodes/shortcodes/post-slider.php:196
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:142
+msgid "Choose post type"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:139
+msgid "Column"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:142
+#: sportcenter-shortcodes/shortcodes/post-grid.php:86
+msgid "2 Column"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:143
+msgid "1 Column"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:151
+msgid "Enable big item"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:154
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:183
+#: sportcenter-shortcodes/shortcodes/post-grid.php:217
+#: sportcenter-shortcodes/shortcodes/post-slider.php:166
+msgid "Yes"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:155
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:184
+#: sportcenter-shortcodes/shortcodes/post-grid.php:218
+#: sportcenter-shortcodes/shortcodes/post-slider.php:167
+msgid "No"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:161
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:210
+#: sportcenter-shortcodes/shortcodes/post-grid.php:108
+#: sportcenter-shortcodes/shortcodes/post-slider.php:200
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:146
+msgid "Category"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:164
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:213
+#: sportcenter-shortcodes/shortcodes/post-grid.php:111
+#: sportcenter-shortcodes/shortcodes/post-slider.php:203
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:149
+msgid "List of cat ID (or slug), separated by a comma"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:171
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:220
+#: sportcenter-shortcodes/shortcodes/post-grid.php:118
+#: sportcenter-shortcodes/shortcodes/post-slider.php:210
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:156
+msgid "list of tags, separated by a comma"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:175
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:224
+#: sportcenter-shortcodes/shortcodes/post-grid.php:122
+#: sportcenter-shortcodes/shortcodes/post-slider.php:214
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:160
+msgid "IDs"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:178
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:227
+#: sportcenter-shortcodes/shortcodes/post-grid.php:125
+#: sportcenter-shortcodes/shortcodes/post-slider.php:217
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:163
+msgid "Specify post IDs to retrieve"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:182
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:231
+#: sportcenter-shortcodes/shortcodes/post-grid.php:129
+#: sportcenter-shortcodes/shortcodes/post-slider.php:221
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:167
+msgid "Count"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:185
+msgid "Number of posts to show. Default is 4"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:191
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:247
+#: sportcenter-shortcodes/shortcodes/post-grid.php:138
+#: sportcenter-shortcodes/shortcodes/post-slider.php:230
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:176
+msgid "Order"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:194
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:250
+#: sportcenter-shortcodes/shortcodes/post-grid.php:141
+#: sportcenter-shortcodes/shortcodes/post-slider.php:233
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:179
+msgid "DESC"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:195
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:251
+#: sportcenter-shortcodes/shortcodes/post-grid.php:142
+#: sportcenter-shortcodes/shortcodes/post-slider.php:234
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:180
+msgid "ASC"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:203
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:259
+#: sportcenter-shortcodes/shortcodes/post-grid.php:150
+#: sportcenter-shortcodes/shortcodes/post-slider.php:242
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:188
+msgid "Order by"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:206
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:262
+#: sportcenter-shortcodes/shortcodes/post-grid.php:153
+#: sportcenter-shortcodes/shortcodes/post-slider.php:245
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:191
+msgid "Date"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:210
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:266
+#: sportcenter-shortcodes/shortcodes/post-grid.php:157
+#: sportcenter-shortcodes/shortcodes/post-slider.php:249
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:195
+msgid "Name"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:211
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:267
+#: sportcenter-shortcodes/shortcodes/post-grid.php:158
+#: sportcenter-shortcodes/shortcodes/post-slider.php:250
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:196
+msgid "Modified"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:212
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:268
+#: sportcenter-shortcodes/shortcodes/post-grid.php:159
+#: sportcenter-shortcodes/shortcodes/post-slider.php:251
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:197
+msgid "Parent"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:213
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:269
+#: sportcenter-shortcodes/shortcodes/post-grid.php:160
+#: sportcenter-shortcodes/shortcodes/post-slider.php:252
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:198
+msgid "Random"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:214
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:270
+#: sportcenter-shortcodes/shortcodes/post-grid.php:161
+#: sportcenter-shortcodes/shortcodes/post-slider.php:253
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:199
+msgid "Comment count"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:215
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:271
+#: sportcenter-shortcodes/shortcodes/post-grid.php:162
+#: sportcenter-shortcodes/shortcodes/post-slider.php:254
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:200
+msgid "Menu order"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:216
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:272
+#: sportcenter-shortcodes/shortcodes/post-grid.php:163
+#: sportcenter-shortcodes/shortcodes/post-slider.php:255
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:201
+msgid "Meta value"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:217
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:273
+#: sportcenter-shortcodes/shortcodes/post-grid.php:164
+#: sportcenter-shortcodes/shortcodes/post-slider.php:256
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:202
+msgid "Meta value num"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:218
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:274
+#: sportcenter-shortcodes/shortcodes/post-grid.php:165
+#: sportcenter-shortcodes/shortcodes/post-slider.php:257
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:203
+msgid "Post__in"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:219
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:275
+#: sportcenter-shortcodes/shortcodes/post-grid.php:166
+#: sportcenter-shortcodes/shortcodes/post-slider.php:258
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:204
+msgid "None"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:225
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:281
+#: sportcenter-shortcodes/shortcodes/post-grid.php:172
+#: sportcenter-shortcodes/shortcodes/post-slider.php:264
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:210
+msgid "Meta key"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:228
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:284
+#: sportcenter-shortcodes/shortcodes/post-grid.php:175
+#: sportcenter-shortcodes/shortcodes/post-slider.php:267
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:213
+msgid "Name of meta key for ordering"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:234
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:290
+#: sportcenter-shortcodes/shortcodes/post-grid.php:181
+#: sportcenter-shortcodes/shortcodes/post-slider.php:273
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:219
+msgid "Event display"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:238
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:294
+#: sportcenter-shortcodes/shortcodes/post-grid.php:185
+#: sportcenter-shortcodes/shortcodes/post-slider.php:277
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:223
+msgid "Recent"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:239
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:295
+#: sportcenter-shortcodes/shortcodes/post-grid.php:186
+#: sportcenter-shortcodes/shortcodes/post-slider.php:278
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:224
+msgid "Custom"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:241
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:297
+#: sportcenter-shortcodes/shortcodes/post-grid.php:188
+#: sportcenter-shortcodes/shortcodes/post-slider.php:280
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:226
+msgid "Only work with post type is Event"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:248
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:304
+#: sportcenter-shortcodes/shortcodes/post-grid.php:195
+#: sportcenter-shortcodes/shortcodes/post-slider.php:287
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:233
+msgid "Week ago"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:249
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:305
+#: sportcenter-shortcodes/shortcodes/post-grid.php:196
+#: sportcenter-shortcodes/shortcodes/post-slider.php:288
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:234
+msgid "Month ago"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:250
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:306
+#: sportcenter-shortcodes/shortcodes/post-grid.php:197
+#: sportcenter-shortcodes/shortcodes/post-slider.php:289
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:235
+msgid "Year ago"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:256
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:312
+#: sportcenter-shortcodes/shortcodes/post-grid.php:203
+#: sportcenter-shortcodes/shortcodes/post-slider.php:295
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:241
+msgid "Event display custom end date"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:259
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:315
+#: sportcenter-shortcodes/shortcodes/post-grid.php:206
+#: sportcenter-shortcodes/shortcodes/post-slider.php:298
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:244
+msgid "Next Week"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:260
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:316
+#: sportcenter-shortcodes/shortcodes/post-grid.php:207
+#: sportcenter-shortcodes/shortcodes/post-slider.php:299
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:245
+msgid "Next Month"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/blog.php:261
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:317
+#: sportcenter-shortcodes/shortcodes/post-grid.php:208
+#: sportcenter-shortcodes/shortcodes/post-slider.php:300
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:246
+msgid "Next Year"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/button.php:53
+msgid "Button"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/button.php:62
+msgid "Button Text"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/button.php:69
+msgid "Button Link"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/button.php:85
+msgid "Button Size"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/button.php:88
+msgid "Small"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/button.php:89
+msgid "Big"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/button.php:97
+msgid "Style"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/button.php:109
+msgid "Button Color"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/countdown_clock.php:18
+msgid "Days"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/countdown_clock.php:18
+msgid "Hrs"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/countdown_clock.php:18
+msgid "Mins"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/countdown_clock.php:18
+msgid "Secs"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:91
+msgid "Buy Now"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:141
+msgid "Post Carousel"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:153
+msgid "Title of carousel header"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:160
+msgid "Font Awesome Icon (ex: fa-calendar)"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:164
+msgid "Link text"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:167
+msgid "Link text (ex: 'View All')"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:171
+msgid "Link URL"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:174
+msgid "If not set, link will not appear"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:180
+msgid "Show Carousel Header"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:189
+msgid "Carousel Header Background"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:234
+#: sportcenter-shortcodes/shortcodes/post-grid.php:132
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:170
+msgid "Number of posts to show. Default is 8"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:238
+msgid "Visible items"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-carousel.php:241
+msgid "Number of items visible in Carousel. Default is 4"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-grid.php:73
+msgid "Post Grid"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-grid.php:82
+msgid "Grid Columns Number"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-grid.php:85
+msgid "3 Column"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-grid.php:87
+msgid "4 Column"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-grid.php:89
+msgid "Default is 3"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-grid.php:214
+msgid "Has Padding"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-slider.php:74
+msgid "From  "
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-slider.php:163
+msgid "Show Post Meta"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-slider.php:224
+msgid "Number of posts to show. Default is 3"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/post-timeline.php:123
+msgid "Post Timeline"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/pricing-table.php:106
+msgid "Pricing Table"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/pricing-table.php:114
+msgid "Column Title"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/pricing-table.php:122
+#: sportcenter-shortcodes/shortcodes/pricing-table.php:182
+msgid "CSS Class"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/pricing-table.php:131
+msgid "Background Color"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/pricing-table.php:138
+msgid "Price"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/pricing-table.php:146
+msgid "Price Text"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/pricing-table.php:155
+msgid "Color"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/pricing-table.php:165
+msgid "Row"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/pricing-table.php:174
+msgid "Row Content"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/timeline.php:68
+msgid "Timeline"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/timeline.php:82
+msgid "Timeline Item"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/timeline.php:97
+msgid "Sub Title"
+msgstr ""
+
+#: sportcenter-shortcodes/shortcodes/timeline.php:104
+msgid "Background"
+msgstr ""
